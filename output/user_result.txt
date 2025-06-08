@@ -9,6 +9,16 @@
 重庆频道,#genre#
 
 福建频道,#genre#
+东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
+海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3
+福建综合,http://8.138.7.223/tv/fjtv.php?id=4
+福建公共,http://8.138.7.223/tv/fjtv.php?id=6
+福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
+福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
+福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
+福建经济,http://8.138.7.223/tv/fjtv.php?id=9
+福建文体,http://8.138.7.223/tv/fjtv.php?id=10
+福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 
 甘肃频道,#genre#
 
