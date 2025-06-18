@@ -9,16 +9,6 @@
 重庆频道,#genre#
 
 福建频道,#genre#
-东南卫视,http://8.138.7.223/tv/fjtv.php?id=5
-海峡卫视,http://8.138.7.223/tv/fjtv.php?id=3
-福建综合,http://8.138.7.223/tv/fjtv.php?id=4
-福建公共,http://8.138.7.223/tv/fjtv.php?id=6
-福建新闻,http://8.138.7.223/tv/fjtv.php?id=13
-福建电视剧,http://8.138.7.223/tv/fjtv.php?id=7
-福建旅游,http://8.138.7.223/tv/fjtv.php?id=8
-福建经济,http://8.138.7.223/tv/fjtv.php?id=9
-福建文体,http://8.138.7.223/tv/fjtv.php?id=10
-福建少儿,http://8.138.7.223/tv/fjtv.php?id=2
 
 甘肃频道,#genre#
 
@@ -73,6 +63,16 @@
 云南频道,#genre#
 
 浙江频道,#genre#
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江钱江,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+浙江经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+浙江教科影视,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+浙江影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+浙江民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+浙江新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+浙江国际,http://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+浙江之江纪录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 
 其它频道,#genre#
 
